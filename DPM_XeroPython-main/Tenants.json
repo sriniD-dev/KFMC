@@ -1,0 +1,33 @@
+{
+    "31474C18FD5F44FAA3708C0641E91E47": [
+        {
+            "authEventId": "26bccf89-c6e1-45b6-b430-d1c0e741dc82",
+            "createdDateUtc": "2021-04-07T19:59:39.0788630",
+            "id": "72fc4a71-5502-4ff9-beac-530d5629fcd5",
+            "tenantId": "0760d204-6c47-457c-bd11-9684f4b4a384",
+            "tenantName": "DPM - UK - NEW",
+            "tenantType": "ORGANISATION",
+            "updatedDateUtc": "2021-06-02T11:31:12.6767850"
+        },
+        {
+            "authEventId": "143f16cc-fa01-4b82-9ce3-01758c812d9f",
+            "createdDateUtc": "2021-04-07T19:08:16.5890800",
+            "id": "46504387-d5c5-447f-a069-0775c2ca01d5",
+            "tenantId": "108b76f9-b4a8-46aa-8df8-5950896b0e51",
+            "tenantName": "DPM Egypt",
+            "tenantType": "ORGANISATION",
+            "updatedDateUtc": "2021-06-02T20:52:59.9580880"
+        }
+    ],
+    "4AC746B4431C4922B32FAD6C3427EEC5": [
+        {
+            "authEventId": "63a5ee2f-619c-4137-a5b9-292d5e4e085b",
+            "createdDateUtc": "2021-04-13T11:56:52.8609110",
+            "id": "3f193134-ea52-4b77-bebd-f32ecb9e1de7",
+            "tenantId": "0760d204-6c47-457c-bd11-9684f4b4a384",
+            "tenantName": "DPM - UK - NEW",
+            "tenantType": "ORGANISATION",
+            "updatedDateUtc": "2021-04-13T11:56:52.8630900"
+        }
+    ]
+}

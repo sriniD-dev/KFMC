@@ -1,0 +1,8 @@
+Driver={ODBC Driver 13 for SQL Server};
+Server=tcp:kfmc.database.windows.net,1433;
+Database=xero;
+Uid=pb_admin;
+Pwd=yufUyt375Lg;
+Encrypt=yes;
+TrustServerCertificate=no;
+Connection Timeout=30;

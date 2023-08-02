@@ -1,0 +1,30 @@
+Azure Account: andrew@kfmc.co.uk 
+password: 250709Rosemary
+
+
+XeroAccount:
+login: developer@vidi-corp.com
+password: 
+PythonAPIConnector:
+OAuth 2.0 redirect URI: https://oauth.powerbi.com/views/oauthredirect.html
+Client id: 31474C18FD5F44FAA3708C0641E91E47
+Client secret: JZmIb6vmIMN7fnsMJu1zK2yCFb2YNvTBM4zC_A22sUJdYpMI
+
+PythonAPIConnector_reserv1:
+Client id: 4AC746B4431C4922B32FAD6C3427EEC5
+Client secret: PyM2r5yhPTgYVgSdN_1C_CrgxsnTlFroee-VFXWjpQ7zzuU6
+
+Driver={ODBC Driver 17 for SQL Server};
+Server=tcp:kfmc.database.windows.net,1433;
+Database=xero;
+Uid=pb_admin;
+Pwd=yufUyt375Lg;
+Encrypt=yes;
+TrustServerCertificate=no;
+Connection Timeout=30;
+
+VM AZURE
+20.52.35.35
+Login: PythonServerAdmin
+passw: HgdtrUUsdd23
+

@@ -1,0 +1,73 @@
+{
+    "Contacts": [
+        {
+            "Balances_AccountsPayable_Outstanding": 0.0,
+            "Balances_AccountsPayable_Overdue": 0.0,
+            "Balances_AccountsReceivable_Outstanding": 6520.2,
+            "Balances_AccountsReceivable_Overdue": 6520.2,
+            "BankAccountDetails": "null",
+            "ContactID": "e7f2891e-b2ad-4812-844e-55737c620118",
+            "ContactStatus": "ACTIVE",
+            "DefaultCurrency": "EGP",
+            "EmailAddress": "null",
+            "FirstName": "null",
+            "HasAttachments": 0,
+            "HasValidationErrors": 0,
+            "IsCustomer": 1,
+            "IsSupplier": 0,
+            "LastName": "null",
+            "Name": "AYAT Egypt Christian Store - February & March Offer",
+            "UpdatedDateUTC": "2021-05-25 18:20:52"
+        }
+    ],
+    "ContactsAddresses": [
+        {
+            "AddressType": "STREET",
+            "AttentionTo": "null",
+            "City": "null",
+            "ContactID": "e7f2891e-b2ad-4812-844e-55737c620118",
+            "Country": "null",
+            "PostalCode": "null",
+            "Region": "null"
+        },
+        {
+            "AddressType": "POBOX",
+            "AttentionTo": "null",
+            "City": "null",
+            "ContactID": "e7f2891e-b2ad-4812-844e-55737c620118",
+            "Country": "null",
+            "PostalCode": "null",
+            "Region": "null"
+        }
+    ],
+    "ContactsPhones": [
+        {
+            "ContactID": "e7f2891e-b2ad-4812-844e-55737c620118",
+            "PhoneAreaCode": "null",
+            "PhoneCountryCode": "null",
+            "PhoneNumber": "null",
+            "PhoneType": "DDI"
+        },
+        {
+            "ContactID": "e7f2891e-b2ad-4812-844e-55737c620118",
+            "PhoneAreaCode": "null",
+            "PhoneCountryCode": "null",
+            "PhoneNumber": "null",
+            "PhoneType": "DEFAULT"
+        },
+        {
+            "ContactID": "e7f2891e-b2ad-4812-844e-55737c620118",
+            "PhoneAreaCode": "null",
+            "PhoneCountryCode": "null",
+            "PhoneNumber": "null",
+            "PhoneType": "FAX"
+        },
+        {
+            "ContactID": "e7f2891e-b2ad-4812-844e-55737c620118",
+            "PhoneAreaCode": "null",
+            "PhoneCountryCode": "null",
+            "PhoneNumber": "null",
+            "PhoneType": "MOBILE"
+        }
+    ]
+}
